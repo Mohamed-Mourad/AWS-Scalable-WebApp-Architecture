@@ -17,7 +17,7 @@ following **AWS Well-Architected best practices**.
 
 ## 📈 Architecture Diagram
 
-![Architecture Diagram](/webapp-architecture.png)
+![Architecture Diagram](/scalable-webapp-architecture.png)
 
 ---
 
