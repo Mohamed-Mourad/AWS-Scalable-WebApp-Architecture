@@ -17,7 +17,7 @@ following **AWS Well-Architected best practices**.
 
 ## 📈 Architecture Diagram
 
-![Architecture Diagram](path/to/your/architecture-diagram.png)
+![Architecture Diagram](/Architecture.png)
 
 ---
 
